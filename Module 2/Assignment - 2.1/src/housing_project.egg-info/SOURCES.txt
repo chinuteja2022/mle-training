@@ -1,9 +1,0 @@
-README.md
-setup.cfg
-setup.py
-src/housing_project/__init__.py
-src/housing_project/nonstandardcode.py
-src/housing_project.egg-info/PKG-INFO
-src/housing_project.egg-info/SOURCES.txt
-src/housing_project.egg-info/dependency_links.txt
-src/housing_project.egg-info/top_level.txt
